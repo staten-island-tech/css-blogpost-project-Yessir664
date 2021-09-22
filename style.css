@@ -1,0 +1,32 @@
+body{
+    font-family: 'Grechen Fuemen', cursive;
+    background-color: #0b0c10;
+}
+
+.main-posts{
+    background-color: white;
+    margin: 15px;
+    padding: 60px;
+    height: 300%;
+    width: 85%;
+    margin-left: 78px;
+}
+.page-header{
+    color: #66FCF1;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 4em;
+    text-align: center;
+}
+.posts{
+    background-color: #1f2833;
+    height: 33%;
+    width: 80%;
+    margin-left: 150px;
+}
+
+.post-img{
+    background-image: url("chick_fil_a.png");
+    width: 80%;
+    height: 100%;
+    margin-left: 100px;
+}
