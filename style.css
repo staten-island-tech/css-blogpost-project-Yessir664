@@ -54,3 +54,9 @@ a:hover{
 #second-post{
     height: 400px;
 }
+
+a:visited 
+{
+    text-decoration: none;
+    color: #66FCF1;
+}
